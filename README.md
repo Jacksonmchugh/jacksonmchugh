@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning make full stack apps
 - 🤔 I’m looking for help with fine toning my projects.
 - 💬 Ask me about anything! I can be an open book about myself, my experiance, or my work.
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/jackson-mchugh/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jackson-mchugh/)
 - ⚡ Fun fact: I have been playing ultimate frisbee for about 15 years now.
 
 
