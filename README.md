@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### 🔭 I’m currently working on updating my top citys project
+- 🔭 I’m currently working on updating my top citys project
 - 🌱 I’m currently learning make full stack apps
 - 🤔 I’m looking for help with fine toning my projects.
 - 💬 Ask me about anything! I can be an open book about myself, my experiance, or my work.
