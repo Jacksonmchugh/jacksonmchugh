@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on updating my top citys project
-- 🌱 I’m currently learning make full stack apps
+- 🌱 I’m currently learning HTML, CSS, Javascript, React.
 - 🤔 I’m looking for help with fine toning my projects.
 - 💬 Ask me about anything! I can be an open book about myself, my experiance, or my work.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jackson-mchugh/)
